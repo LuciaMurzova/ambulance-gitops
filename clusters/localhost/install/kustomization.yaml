@@ -10,3 +10,6 @@ commonLabels:
 
 resources:
 - ../../../apps/xmurzova-ambulance-ufe
+
+components:
+ - ../../../components/version-developers

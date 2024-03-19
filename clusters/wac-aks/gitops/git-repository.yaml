@@ -7,8 +7,6 @@ spec:
   interval: 1m0s
   ref:
     branch: main
-  secretRef:
-    name: xmurzova-repository-pat
   timeout: 1m0s
   url: https://github.com/LuciaMurzova/ambulance-gitops
   

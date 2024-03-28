@@ -9,7 +9,9 @@ commonLabels:
 
 resources:
  - ../../../apps/xmurzova-ambulance-ufe
+ - ../../../apps/xmurzova-app-ambulance-ufe
 
 
 components:
  - ../../../components/version-release
+ - ../../../components/app-version-release
